@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>.Postdoctoral Researcher @ LPTMC, Sorbonne Université (Paris, France)
+subtitle: <a href='#'>Affiliations</a> Postdoctoral Researcher @ LPTMC, Sorbonne Université (Paris, France)
 
 profile:
   align: right
@@ -10,7 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Room 520, Tour 12-13</p>
-    <p>Sorbonne Université, 4 Place Jussieu</p>
+    <p>Sorbonne Université</p>
+    <p>4 Place Jussieu</p>
     <p>75005 Paris</p>
 
 news: true # includes a list of news items

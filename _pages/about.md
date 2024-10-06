@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliation</a> Postdoctoral Researcher @ LPTMC, Sorbonne Université (Paris, France)
+subtitle: <a href='https://www.lptmc.jussieu.fr/users/venturelli'>Affiliation</a> Postdoctoral Researcher @ LPTMC, Sorbonne Université (Paris, France)
 
 profile:
   align: right
@@ -19,9 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Davide and this is my personal webpage.
+Hi! I'm Davide, and welcome to my personal webpage, which I'm slowly building up...
 
-I'm a theoretical physicist and I'm currently carrying out my research in Paris, after completing my undergraduate studies in Sapienza University (Rome, Italy) and getting a PhD in Statistical Physics in SISSA (Trieste, Italy). 
+I'm a theoretical physicist and I'm currently conducting my research in Paris, after completing my undergraduate studies in Sapienza University (Rome, Italy), and earning a PhD in Statistical Physics in SISSA (Trieste, Italy). 
 
 <p>&nbsp;</p>
 <p>My <strong>research interests</strong> include:</p>
@@ -33,7 +33,4 @@ I'm a theoretical physicist and I'm currently carrying out my research in Paris,
 </ul>
 <p>&nbsp;</p>
 
-<p><a href="https://drive.google.com/drive/folders/1VeK75YjsT5_0UOcaRE0h-MaJ3YA-d1j0">A few of my lecture notes</a></p>     </div>
-
-<p>&nbsp;</p>
-(This personal webpage is still very much in progress, and I don't know how long it's going to take me to set it up and running...)
+<p>Here are a few of my (handwritten) <a href="https://drive.google.com/drive/folders/1VeK75YjsT5_0UOcaRE0h-MaJ3YA-d1j0">lecture notes</a>.</p>

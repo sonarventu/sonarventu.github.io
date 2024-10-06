@@ -19,6 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+<p>&nbsp;</p>
 Hi! I'm Davide, and welcome to my personal webpage, which I'm slowly building up...
 
 I'm a theoretical physicist and I'm currently conducting my research in Paris, after completing my undergraduate studies in Sapienza University (Rome, Italy), and earning a PhD in Statistical Physics in SISSA (Trieste, Italy). 
@@ -34,3 +35,4 @@ I'm a theoretical physicist and I'm currently conducting my research in Paris, a
 <p>&nbsp;</p>
 
 <p>Here are a few of my (handwritten) <a href="https://drive.google.com/drive/folders/1VeK75YjsT5_0UOcaRE0h-MaJ3YA-d1j0">lecture notes</a>.</p>
+<p>&nbsp;</p>

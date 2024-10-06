@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a> Postdoctoral Researcher @ LPTMC, Sorbonne Université (Paris, France)
+subtitle: <a href='#'>Affiliation</a> Postdoctoral Researcher @ LPTMC, Sorbonne Université (Paris, France)
 
 profile:
   align: right

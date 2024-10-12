@@ -17,9 +17,9 @@
       "studyType": "PhD",
       "startDate": "2019-10-01",
       "endDate": "2023-09-25",
-      "thesisTitle": "Stochastic dynamics in complex landscapes: From fluctuation fields to quenched disorder"
+      "thesisTitle": "Stochastic dynamics in complex landscapes: From fluctuation fields to quenched disorder",
       "thesisUrl": "https://hdl.handle.net/20.500.11767/134110",
-      "thesisSupervisor": "Prof. Andrea Gambassi"
+      "thesisSupervisor": "Prof. Andrea Gambassi",
     },
     {
       "institution": "Università Sapienza",
@@ -30,7 +30,7 @@
       "startDate": "2017-10-01",
       "endDate": "2019-10-25",
       "score": "110/110 e lode (marks average 29.85/30)",
-      "thesisTitle": "Collective response to local perturbations of an active matter system with polar order"
+      "thesisTitle": "Collective response to local perturbations of an active matter system with polar order",
       "thesisUrl": "https://hdl.handle.net/20.500.11767/134110",
       "thesisSupervisor": "Prof. Irene Giardina"
     },
@@ -41,7 +41,20 @@
       "area": "Physics",
       "studyType": "Bachelor's degree",
       "startDate": "2014-10-01",
-      "endDate": "2017-10-25",
+      "endDate": "2017-10-19",
+      "score": "110/110 e lode (marks average 29.93/30)",
+      "thesisTitle": "Sulla realtà della funzione d'onda",
+      "thesisUrl": "https://drive.google.com/file/d/0Bx2FG3Moe5OMcTVHdnU1cC1BeGc/view?usp=share_link&resourcekey=0-xq1QbbuVhMNV7MiD3lbf-Q",
+      "thesisSupervisor": "Prof. Fabio Sciarrino"
+    },
+    {
+      "institution": "Università Sapienza",
+      "location": "Rome, Italy",
+      "url": "https://www.phys.uniroma1.it/fisica/",
+      "area": "Physics",
+      "studyType": "Bachelor's degree",
+      "startDate": "2014-10-01",
+      "endDate": "2017-10-19",
       "score": "110/110 e lode (marks average 29.93/30)",
       "thesisTitle": "Sulla realtà della funzione d'onda"
       "thesisUrl": "https://drive.google.com/file/d/0Bx2FG3Moe5OMcTVHdnU1cC1BeGc/view?usp=share_link&resourcekey=0-xq1QbbuVhMNV7MiD3lbf-Q",

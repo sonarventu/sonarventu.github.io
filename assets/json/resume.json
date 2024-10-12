@@ -5,7 +5,7 @@
       "position": "Postdoctoral researcher",
       "url": "https://www.lptmc.jussieu.fr/users/venturelli",
       "startDate": "2023-10-01",
-      "endDate": "present",
+      "endDate": "present"
     }
   ],
   "education": [
@@ -19,7 +19,7 @@
       "endDate": "2023-09-25",
       "thesisTitle": "Stochastic dynamics in complex landscapes: From fluctuation fields to quenched disorder",
       "thesisUrl": "https://hdl.handle.net/20.500.11767/134110",
-      "thesisSupervisor": "Prof. Andrea Gambassi",
+      "thesisSupervisor": "Prof. Andrea Gambassi"
     },
     {
       "institution": "Università Sapienza",
@@ -56,7 +56,7 @@
       "startDate": "2014-10-01",
       "endDate": "2017-10-19",
       "score": "110/110 e lode (marks average 29.93/30)",
-      "thesisTitle": "Sulla realtà della funzione d'onda"
+      "thesisTitle": "Sulla realtà della funzione d'onda",
       "thesisUrl": "https://drive.google.com/file/d/0Bx2FG3Moe5OMcTVHdnU1cC1BeGc/view?usp=share_link&resourcekey=0-xq1QbbuVhMNV7MiD3lbf-Q",
       "thesisSupervisor": "Prof. Fabio Sciarrino"
     }
@@ -90,7 +90,7 @@
       "language": "Portoguese",
       "fluency": "Basic",
       "icon": ""
-    },
+    }
   ],
   "interests": [
     {
@@ -117,5 +117,5 @@
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
-  ],
+  ]
 }

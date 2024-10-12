@@ -2,6 +2,7 @@
   "work": [
     {
       "name": "LPTMC, Sorbonne Université",
+      "location": "Paris, France",
       "position": "Postdoctoral researcher",
       "url": "https://www.lptmc.jussieu.fr/users/venturelli",
       "startDate": "2023-10-01",
@@ -48,11 +49,11 @@
       "thesisSupervisor": "Prof. Fabio Sciarrino"
     },
     {
-      "institution": "Università Sapienza",
-      "location": "Rome, Italy",
-      "url": "https://www.phys.uniroma1.it/fisica/",
+      "institution": "Queen Mary, University of London",
+      "location": "London, UK",
+      "url": "https://www.qmul.ac.uk/spcs/physics-and-astronomy/",
       "area": "Physics",
-      "studyType": "Bachelor's degree",
+      "studyType": "Bachelor's degree (1st year)",
       "startDate": "2013-09-01",
       "endDate": "2014-06-01",
       "score": "1:1 First class honors"
@@ -101,8 +102,8 @@
   ],
   "volunteer": [
     {
-      "organization": "Amnesty International",
-      "location": "Queen Mary, University of London",
+      "organization": "Amnesty International (QM Society)",
+      "location": "London, UK",
       "position": "Social Secretary",
       "startDate": "2012-10-01",
       "endDate": "2014-06-01",

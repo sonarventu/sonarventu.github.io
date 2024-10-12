@@ -5,22 +5,31 @@
       "position": "Postdoctoral researcher",
       "url": "https://www.lptmc.jussieu.fr/users/venturelli",
       "startDate": "2023-10-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "endDate": "present",
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "SISSA -- International School for Advanced Studies",
+      "location": "Trieste, Italy",
+      "url": "https://www.statphys.sissa.it/wordpress/",
+      "area": "Statistical Physics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2019-10-01",
+      "endDate": "2023-09-25",
+      "thesisTitle": "Stochastic dynamics in complex landscapes: From fluctuation fields to quenched disorder"
+      "thesisUrl": "https://hdl.handle.net/20.500.11767/134110"
+    },
+    {
+      "institution": "Università Sapienza",
+      "location": "Rome, Italy",
+      "url": "https://www.phys.uniroma1.it/fisica/",
+      "area": "Theoretical Physics",
+      "studyType": "Master's degree",
+      "startDate": "2017-10-01",
+      "endDate": "2019-10-25",
+      "thesisTitle": "Collective response to local perturbations of an active matter system with polar order"
+      "thesisUrl": "https://hdl.handle.net/20.500.11767/134110"
     }
   ],
   "awards": [

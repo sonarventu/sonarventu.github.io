@@ -53,21 +53,18 @@
       "url": "https://www.phys.uniroma1.it/fisica/",
       "area": "Physics",
       "studyType": "Bachelor's degree",
-      "startDate": "2014-10-01",
-      "endDate": "2017-10-19",
-      "score": "110/110 e lode (marks average 29.93/30)",
-      "thesisTitle": "Sulla realtà della funzione d'onda",
-      "thesisUrl": "https://drive.google.com/file/d/0Bx2FG3Moe5OMcTVHdnU1cC1BeGc/view?usp=share_link&resourcekey=0-xq1QbbuVhMNV7MiD3lbf-Q",
-      "thesisSupervisor": "Prof. Fabio Sciarrino"
+      "startDate": "2013-09-01",
+      "endDate": "2014-06-01",
+      "score": "1:1 First class honors"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Borsa di studio Enrico Persico",
+      "date": "2019-05-01",
+      "awarder": "Accademia Nazionale dei Lincei",
+      "url": "https://www.lincei.it/it",
+      "summary": "Awarded to top Physics students in Rome (Italy)."
     }
   ],
   "languages": [
@@ -94,28 +91,22 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Music",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Guitar",
+        "Vocals"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Amnesty International",
+      "location": "Queen Mary, University of London",
+      "position": "Social Secretary",
+      "startDate": "2012-10-01",
+      "endDate": "2014-06-01",
+      "summary": "Planning of conferences, debates, fund raising campaigns, social nights."
     }
   ]
 }

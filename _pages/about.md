@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.lptmc.jussieu.fr/users/venturelli'>Affiliation</a> Postdoctoral Researcher @ LPTMC, Sorbonne Université (Paris, France)
+subtitle: Postdoctoral Researcher @ <a href='https://www.lptmc.jussieu.fr/users/venturelli'>LPTMC</a>, Sorbonne Université (Paris, France)
 
 profile:
   align: right

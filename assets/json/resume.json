@@ -17,12 +17,28 @@
       "endDate": "2023-05-31"
     },
     {
+      "name": "SISSA wellbeing and equal opportunities committee (CUG)",
+      "location": "Trieste, Italy",
+      "position": "PhD Student Representative",
+      "url": "https://www.sissa.it/welfare/cug",
+      "startDate": "2022-10-01",
+      "endDate": "2023-09-30"
+    },
+    {
       "name": "LPTHE, Sorbonne Université",
       "location": "Paris, France",
       "position": "Visiting PhD student",
       "url": "https://www.lpthe.jussieu.fr/static/en/index.html",
       "startDate": "2022-04-01",
       "endDate": "2022-06-30"
+    },
+    {
+      "name": "SISSA Board of Directors",
+      "location": "Trieste, Italy",
+      "position": "PhD Student Representative",
+      "url": "https://www.sissa.it/about/general-organization/board-directors",
+      "startDate": "2020-10-01",
+      "endDate": "2022-09-30"
     }
   ],
   "education": [

@@ -7,6 +7,22 @@
       "url": "https://www.lptmc.jussieu.fr/users/venturelli",
       "startDate": "2023-10-01",
       "endDate": "present"
+    },
+    {
+      "name": "LPTMC, Sorbonne Université",
+      "location": "Paris, France",
+      "position": "Visiting PhD student",
+      "url": "https://www.lptmc.jussieu.fr",
+      "startDate": "2023-03-01",
+      "endDate": "2023-05-31"
+    },
+    {
+      "name": "LPTHE, Sorbonne Université",
+      "location": "Paris, France",
+      "position": "Visiting PhD student",
+      "url": "https://www.lpthe.jussieu.fr/static/en/index.html",
+      "startDate": "2022-04-01",
+      "endDate": "2022-06-30"
     }
   ],
   "education": [
@@ -66,6 +82,13 @@
       "awarder": "Accademia Nazionale dei Lincei",
       "url": "https://www.lincei.it/it",
       "summary": "Awarded to top Physics students in Rome (Italy)."
+    },
+    {
+      "title": "Percorso di eccellenza",
+      "date": "2015-09-01",
+      "awarder": "Sapienza Università di Roma",
+      "url": "https://www.phys.uniroma1.it/fisica/",
+      "summary": "Granted to top Physics students in Sapienza (in my case, for 3 years in a row)."
     }
   ],
   "languages": [
@@ -101,6 +124,13 @@
     }
   ],
   "volunteer": [
+    {
+      "organization": "AVIS (and others)",
+      "location": "Italy and France",
+      "position": "Blood donor",
+      "startDate": "2012-11-01",
+      "endDate": "present"
+    },
     {
       "organization": "Amnesty International (QM Society)",
       "location": "London, UK",

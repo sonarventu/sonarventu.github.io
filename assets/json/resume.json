@@ -134,14 +134,13 @@
       "name": "Music",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Guitar",
-        "Vocals"
+        "Guitar"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "AVIS (and others)",
+      "organization": "Associazione Volontari Italiani del Sangue (and others)",
       "location": "Italy and France",
       "position": "Blood donor",
       "startDate": "2012-11-01",

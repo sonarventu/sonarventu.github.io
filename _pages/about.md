@@ -27,12 +27,12 @@ I'm a theoretical physicist and I'm currently conducting my research in Paris, a
 <p>&nbsp;</p>
 <p>My <strong>research interests</strong> include:</p>
 <ul>
-<li>Stochastics dynamics of soft and active matter systems</li>
-<li>Non-Markovian stochastic processes and fluctuation-induced forces</li>
-<li>Nonequilibrium statistical field theory</li>
-<li>Random matrix theory and disordered systems</li>
+<li>Stochastics dynamics of soft and active matter systems,</li>
+<li>Non-Markovian stochastic processes and fluctuation-induced forces,</li>
+<li>Nonequilibrium statistical field theory,</li>
+<li>Random matrix theory and disordered systems.</li>
 </ul>
 <p>&nbsp;</p>
 
-<p>Here are a few of my (handwritten) <a href="https://drive.google.com/drive/folders/1VeK75YjsT5_0UOcaRE0h-MaJ3YA-d1j0">lecture notes</a>, and a complete list of my works on <a href="https://arxiv.org/a/venturelli_d_2.html">arXiv</a>.</p>
+<p>Here are a few of my (handwritten) <a href="https://drive.google.com/drive/folders/1VeK75YjsT5_0UOcaRE0h-MaJ3YA-d1j0">lecture notes</a>, and the complete list of my works on <a href="https://arxiv.org/a/venturelli_d_2.html">arXiv</a>.</p>
 <p>&nbsp;</p>

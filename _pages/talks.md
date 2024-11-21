@@ -2,7 +2,7 @@
 layout: default
 permalink: /talks/
 title: talks
-description: past and upcoming talks and seminars.
+description: Past and upcoming talks and seminars.
 nav: true
 nav_order: 3
 ---

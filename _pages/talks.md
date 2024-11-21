@@ -14,14 +14,8 @@ nav_order: 3
   <article>
     <ul>
       {% for talk in site.data.talks %}
-      <li>
-        <strong>{{ talk.title }}</strong> <br>
-        {{ talk.event }} — {{ talk.date }} <br>
-        {{ talk.location }}
-        {% if talk.slides %}
-          [Slides]({{talk.slides}})
-        {% endif %}
-      </li>
+        - **Title:** {{ talk.title }}
+        - **Slides:** {{ talk.slides }}
       {% endfor %}
     </ul>
   </article>

@@ -1,0 +1,10 @@
+- title: "Exciting Talk Title"
+  event: "Conference Name"
+  date: "2024-10-15"
+  location: "City, Country"
+  slides: "https://link-to-slides.com"
+- title: "Another Talk"
+  event: "Workshop Name"
+  date: "2023-05-12"
+  location: "City, Country"
+  slides: null

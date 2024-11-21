@@ -14,8 +14,14 @@ nav_order: 3
   <article>
     <ul>
       {% for talk in site.data.talks %}
-        - **Title:** {{ talk.title }}
-        - **Slides:** {{ talk.slides }}
+        <li>
+          <strong>{{ talk.title }}</strong>
+          {% if talk.slides and talk.slides != "" %}
+            - <a href="{{ talk.slides }}" target="_blank">Slides</a>
+          {% else %}
+            - *(No slides available)*
+          {% endif %}
+        </li>
       {% endfor %}
     </ul>
   </article>

@@ -19,7 +19,7 @@ nav_order: 3
         {{ talk.event }} — {{ talk.date }} <br>
         {{ talk.location }}
         {% if talk.slides %}
-        (<a href="{{ talk.slides }}" target="_blank">Slides</a>)
+          [Slides]({{talk.slides}})
         {% endif %}
       </li>
       {% endfor %}

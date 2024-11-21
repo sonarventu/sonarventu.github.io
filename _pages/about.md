@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <p>&nbsp;</p>
-Hi! I'm Davide, and welcome to my personal webpage, which I'm slowly building up...
+Hi! I'm Davide, and welcome to my personal webpage.
 
 I'm a theoretical physicist and I'm currently conducting my research in Paris, after completing my undergraduate studies in Sapienza University (Rome, Italy), and earning a PhD in Statistical Physics in SISSA (Trieste, Italy). 
 

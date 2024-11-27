@@ -7,9 +7,9 @@ nav: true
 nav_order: 3
 ---
 
-<p>&nbsp;</p>
+<p>&nbsp;</p> Coming soon...
 
-<div class="post">
+<!-- <div class="post">
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
@@ -27,4 +27,4 @@ nav_order: 3
       {% endfor %}
     </ul>
   </article>
-</div>
+</div> -->

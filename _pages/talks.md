@@ -8,13 +8,11 @@ nav: true
 nav_order: 3
 ---
 
-<div class="talks">
+<div class="publications">
 
 {%- for y in page.years %}
-  <h2 class="year">{{ y }}</h2>
-  <ul>
-    {% bibliography -f talks -q @*[year={{ y }}]* %}
-  </ul>
-{%- endfor %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f talks -q @*[year={{y}}]* %}
+{% endfor %}
 
 </div>

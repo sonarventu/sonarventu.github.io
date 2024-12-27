@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I just started setting up this webpage... Stay tuned
+I just started setting up this webpage... Stay tuned.

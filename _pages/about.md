@@ -30,7 +30,7 @@ I'm a theoretical physicist and I'm currently conducting my research in Paris, a
 <li>Non-Markovian stochastic processes and fluctuation-induced forces,</li>
 <li>Nonequilibrium statistical field theory,</li>
 <li>Classical interacting particle systems,</li>
-<li>Stochastics dynamics in soft and active matter,</li>
+<li>Stochastic dynamics in soft and active matter,</li>
 <li>Random matrix theory and disordered systems.</li>
 </ul>
 <p>&nbsp;</p>

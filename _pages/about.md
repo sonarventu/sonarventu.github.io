@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 520, Tour 12-13</p>
+    <p>Room 520, Towers 12-13</p>
     <p>Sorbonne Université</p>
     <p>4 Place Jussieu</p>
     <p>75005 Paris</p>
@@ -23,6 +23,8 @@ social: true # includes social icons at the bottom of the page
 Hi! I'm Davide, and welcome to my personal page.
 
 I'm a theoretical physicist and I'm currently conducting my research in Paris, after completing my undergraduate studies in Sapienza University (Rome, Italy), and earning a PhD in Statistical Physics in SISSA (Trieste, Italy). 
+
+I'm passionate about teaching science and inspiring curiosity.
 
 <p>&nbsp;</p>
 <p>My <strong>research interests</strong> include:</p>

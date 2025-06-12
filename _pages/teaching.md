@@ -41,5 +41,5 @@ Build in progress!
 <li><a href="https://sonarventu.github.io/assets/Selected_topics/Resummation_techniques_in_scalar_field_theory.pdf"><b>Resummation techniques in scalar field theory</b></a> (Seminar for the course "Statistical field theory" @ SISSA)</li>
 <li><a href="https://sonarventu.github.io/assets/Selected_topics/Growth_processes_and_random_matrices.pdf"><b>Growth processes and random matrices</b></a> (Seminar for the course "Random matrix theory" @ SISSA)</li>
 <li><a href="https://sonarventu.github.io/assets/Selected_topics/Quantum_chaos_and_ETH.pdf"><b>Quantum chaos and ETH</b></a> (Seminar for the course "Quantum many-body systems" @ SISSA)</li>
-<li><a href="https://sonarventu.github.io/assets/Selected_topics/Effective_action_PDEs.pdf"><b>Effective action methods for stochastic PDEs</b></a> (Journal Club @ SISSA)</li>
+<li><a href="https://sonarventu.github.io/assets/Selected_topics/Effective_action_PDE.pdf"><b>Effective action methods for stochastic PDEs</b></a> (Journal Club @ SISSA)</li>
 </ul>

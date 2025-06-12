@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-Build in progress!
+Page under construction!
 
 
 <p>&nbsp;</p>
@@ -34,12 +34,12 @@ Build in progress!
 <p><strong>Presentations on selected topics</strong>:</p>
 <ul>
 <li><a href="https://sonarventu.github.io/assets/Selected_topics/Sulla_realta_funzione_onda.pdf"><b>Sulla realtà della funzione d'onda</b></a> (3rd year Bachelor dissertation @ Sapienza) </li>
-<li><a href="https://sonarventu.github.io/assets/Selected_topics/KdV-Onde_non_lineari_e_solitoni.pdf"><b>L'equazione di Korteweg - De Vries</b></a> (Dissertation for the course "Onde non lineari e solitoni" @ Sapienza)</li>
-<li><a href="https://sonarventu.github.io/assets/Selected_topics/Critical_points_coupled_vector-Ising_systems.pdf"><b>Critical points of coupled vector-Ising systems</b></a> (Seminar for the course "Field theory and critical phenomena" @ SISSA)</li>
-<li><a href="https://sonarventu.github.io/assets/Selected_topics/Finite_temperature_BEC.pdf"><b>Finite-temperature models of Bose-Einstein condensation</b></a> (Seminar for the course "Physics of cold atoms" @ SISSA)</li>
-<li><a href="https://sonarventu.github.io/assets/Selected_topics/Generalized_hydrodynamics.pdf"><b>Generalized hydrodynamics</b></a> (Seminar for the course "Entanglement entropy" @ SISSA)</li>
-<li><a href="https://sonarventu.github.io/assets/Selected_topics/Resummation_techniques_in_scalar_field_theory.pdf"><b>Resummation techniques in scalar field theory</b></a> (Seminar for the course "Statistical field theory" @ SISSA)</li>
-<li><a href="https://sonarventu.github.io/assets/Selected_topics/Growth_processes_and_random_matrices.pdf"><b>Growth processes and random matrices</b></a> (Seminar for the course "Random matrix theory" @ SISSA)</li>
-<li><a href="https://sonarventu.github.io/assets/Selected_topics/Quantum_chaos_and_ETH.pdf"><b>Quantum chaos and ETH</b></a> (Seminar for the course "Quantum many-body systems" @ SISSA)</li>
-<li><a href="https://sonarventu.github.io/assets/Selected_topics/Effective_action_PDE.pdf"><b>Effective action methods for stochastic PDEs</b></a> (Journal Club @ SISSA)</li>
+<li><a href="https://sonarventu.github.io/assets/Selected_topics/KdV-Onde_non_lineari_e_solitoni.pdf"><b>L'equazione di Korteweg - De Vries</b></a> (dissertation for the course "Onde non lineari e solitoni" @ Sapienza)</li>
+<li><a href="https://sonarventu.github.io/assets/Selected_topics/Critical_points_coupled_vector-Ising_systems.pdf"><b>Critical points of coupled vector-Ising systems</b></a> (seminar for the course "Field theory and critical phenomena" @ SISSA)</li>
+<li><a href="https://sonarventu.github.io/assets/Selected_topics/Finite_temperature_BEC.pdf"><b>Finite-temperature models of Bose-Einstein condensation</b></a> (seminar for the course "Physics of cold atoms" @ SISSA)</li>
+<li><a href="https://sonarventu.github.io/assets/Selected_topics/Generalized_hydrodynamics.pdf"><b>Generalized hydrodynamics</b></a> (seminar for the course "Entanglement entropy" @ SISSA)</li>
+<li><a href="https://sonarventu.github.io/assets/Selected_topics/Resummation_techniques_in_scalar_field_theory.pdf"><b>Resummation techniques in scalar field theory</b></a> (seminar for the course "Statistical field theory" @ SISSA)</li>
+<li><a href="https://sonarventu.github.io/assets/Selected_topics/Growth_processes_and_random_matrices.pdf"><b>Growth processes and random matrices</b></a> (seminar for the course "Random matrix theory" @ SISSA)</li>
+<li><a href="https://sonarventu.github.io/assets/Selected_topics/Quantum_chaos_and_ETH.pdf"><b>Quantum chaos and ETH</b></a> (seminar for the course "Quantum many-body systems" @ SISSA)</li>
+<li><a href="https://sonarventu.github.io/assets/Selected_topics/Effective_action_PDE.pdf"><b>Effective action methods for stochastic PDEs</b></a> (journal club @ SISSA)</li>
 </ul>

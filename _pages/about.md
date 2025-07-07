@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Room 520, Towers 12-13</p>
     <p>Sorbonne Université</p>
-    <p>4 Place Jussieu</p>
+    <p>4 Place Jussieu,</p>
     <p>75005 Paris</p>
 
 news: true # includes a list of news items

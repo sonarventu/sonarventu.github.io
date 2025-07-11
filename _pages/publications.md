@@ -13,19 +13,8 @@ nav_order: 1
 
 {% include bib_search.liquid %}
 
-<style>
-.publications {
-  counter-reset: pub-number;
-}
-
-.publications li::before {
-  counter-increment: pub-number;
-  content: counter(pub-number) ". ";
-  display: inline-block;
-  margin-right: 0.5em;
-}
-</style>
-
 <div class="publications">
-  {% bibliography --sort_by year --order ascending %}
+
+{% bibliography %}
+
 </div>

@@ -37,5 +37,5 @@ I'm passionate about teaching science and inspiring curiosity.
 </ul>
 <p>&nbsp;</p>
 
-<p>Here's the complete list of my works on <a href="https://arxiv.org/a/venturelli_d_2.html"><b>arXiv</b></a>.</p>
+<p>Here's the complete list of my works, freely accessible on <a href="https://arxiv.org/a/venturelli_d_2.html"><b>arXiv</b></a>.</p>
 <p>&nbsp;</p>

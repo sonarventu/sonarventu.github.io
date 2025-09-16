@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Here you can find some lecture notes and teaching material.
+description: Here's a list of the teaching activities I am (or I've been) involved in, along with some lecture notes and teaching material.
 nav: true
 nav_order: 4
 ---
@@ -16,13 +16,13 @@ nav_order: 4
 
 <p><strong>Sorbonne Université 2024/2025</strong></p>
 <ul>
-<li><b>Mathématiques pour les études scientifiques I</b> (TD replacements)</li>
-<li><a href="https://www.lpthe.jussieu.fr/~leticia/TEACHING/Master2024/Random_matrices_quantum_chaos_and_localization.pdf"><b>Random matrices, quantum chaos, and localization</b></a> (lecture within the course "Quantum dynamics" by L. Cugliandolo)</li>
+<li>Mathématiques pour les études scientifiques I (TD replacements)</li>
+<li><a href="https://www.lpthe.jussieu.fr/~leticia/TEACHING/Master2024/Random_matrices_quantum_chaos_and_localization.pdf"><b>Random matrices, quantum chaos, and localization</b></a> (lecture within the course <i>Quantum dynamics</i> by L. Cugliandolo)</li>
 </ul>
 
 <p><strong>SISSA 2022/2023</strong></p>
 <ul>
-<li><b>Introduction to quantum mechanics, quantum statistics and field theory</b> (TD within the international Master PCS)</li>
+<li>Introduction to quantum mechanics, quantum statistics and field theory (TD within the international Master PCS)</li>
 </ul>
 
 <p>&nbsp;</p>

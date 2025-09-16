@@ -7,6 +7,7 @@ nav: true
 nav_order: 4
 ---
 
+<p>&nbsp;</p>
 <p><strong>Sorbonne Université 2025/2026</strong></p>
 <ul>
 <li><a href="https://moodle-sciences-25.sorbonne-universite.fr/course/view.php?id=1471"><b>Mathématiques pour les Sciences 1</b></a> (TD)</li>
@@ -14,12 +15,14 @@ nav_order: 4
 <li><a href="https://formations-sciences.sorbonne-universite.fr/dl/UE%20licences/UE%20licence%20physique/Fiche_UE_Mathématiques%202%20-%20UL2PY210_16.05.2025.pdf"><b>Mathématiques 2</b></a> (TD)</li>
 </ul>
 
+<p>&nbsp;</p>
 <p><strong>Sorbonne Université 2024/2025</strong></p>
 <ul>
 <li>Mathématiques pour les études scientifiques I (TD replacements)</li>
 <li><a href="https://www.lpthe.jussieu.fr/~leticia/TEACHING/Master2024/Random_matrices_quantum_chaos_and_localization.pdf"><b>Random matrices, quantum chaos, and localization</b></a> (lecture within the course <i>Quantum dynamics</i> by L. Cugliandolo)</li>
 </ul>
 
+<p>&nbsp;</p>
 <p><strong>SISSA 2022/2023</strong></p>
 <ul>
 <li>Introduction to quantum mechanics, quantum statistics and field theory (TD within the international Master PCS)</li>

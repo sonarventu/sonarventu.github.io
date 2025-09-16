@@ -14,6 +14,12 @@ nav_order: 4
 <li><a href="https://formations-sciences.sorbonne-universite.fr/dl/UE%20licences/UE%20licence%20physique/Fiche_UE_Mathématiques%202%20-%20UL2PY210_16.05.2025.pdf"><b>Mathématiques 2 (TD)</b></a></li>
 </ul>
 
+<p><strong>Sorbonne Université 2024/2025</strong></p>
+<ul>
+<li><b>Mathématiques pour les Sciences 1</b> (TD replacements)</li>
+<li><a href="https://www.lpthe.jussieu.fr/~leticia/TEACHING/Master2024/Random_matrices_quantum_chaos_and_localization.pdf"><b>Random matrices, quantum chaos, and localization</b></a> (lecture within the course "Quantum dynamics" by L. Cugliandolo)</li>
+</ul>
+
 <p>&nbsp;</p>
 <p><strong>Lecture notes for courses followed in Sapienza</strong> (mostly in Italian):</p>
 <ul>

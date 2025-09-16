@@ -25,7 +25,7 @@ nav_order: 4
 <p>&nbsp;</p>
 <p><strong>SISSA 2022/2023</strong></p>
 <ul>
-<li>Introduction to quantum mechanics, quantum statistics and field theory (TD within the international Master PCS)</li>
+<li>Introduction to quantum mechanics, quantum statistics and field theory (TD within the international master <i>Physics of Complex Systems</i>)</li>
 </ul>
 
 <p>&nbsp;</p>

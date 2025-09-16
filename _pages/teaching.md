@@ -7,8 +7,12 @@ nav: true
 nav_order: 4
 ---
 
-Page under construction!
-
+<p><strong>Sorbonne Université 2025/2026</strong></p>
+<ul>
+<li><a href="https://moodle-sciences-25.sorbonne-universite.fr/course/view.php?id=1471"><b>Mathématiques pour les Sciences 1 (TD)</b></a></li>
+<li><a href="https://moodle-sciences-25.sorbonne-universite.fr/course/view.php?id=449"><b>Physique Statistique - Concepts et fondements (TD)</b></a></li>
+<li><a href="https://formations-sciences.sorbonne-universite.fr/dl/UE%20licences/UE%20licence%20physique/Fiche_UE_Mathématiques%202%20-%20UL2PY210_16.05.2025.pdf"><b>Mathématiques 2 (TD)</b></a></li>
+</ul>
 
 <p>&nbsp;</p>
 <p><strong>Lecture notes for courses followed in Sapienza</strong> (mostly in Italian):</p>

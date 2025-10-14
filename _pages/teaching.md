@@ -61,3 +61,11 @@ nav_order: 4
 <li><a href="https://sonarventu.github.io/assets/Selected_topics/Quantum_chaos_and_ETH.pdf"><b>Quantum chaos and ETH</b></a> (seminar for the course "Quantum many-body systems" @ SISSA)</li>
 <li><a href="https://sonarventu.github.io/assets/Selected_topics/Effective_action_PDE.pdf"><b>Effective action methods for stochastic PDEs</b></a> (journal club @ SISSA)</li>
 </ul>
+
+<p style="text-align: center; margin-top: 40px;">
+  <img src="https://sonarventu.github.io/assets/img/schrodinger-cat.jpg"
+       alt="Schrödinger cat"
+       style="width: 20%; height: auto; border-radius: 8px;">
+  <br>
+  <small><em>credits: @_cogitoergo.seum</em></small>
+</p>

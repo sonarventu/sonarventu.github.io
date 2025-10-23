@@ -13,6 +13,7 @@ profile:
     <p>Sorbonne Université</p>
     <p>4 Place Jussieu,</p>
     <p>75005 Paris</p>
+    <p><small>davide.venturelli@sorbonne-universite.fr</small></p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

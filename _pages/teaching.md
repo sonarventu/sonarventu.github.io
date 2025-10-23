@@ -62,6 +62,8 @@ nav_order: 4
 <li><a href="https://sonarventu.github.io/assets/Selected_topics/Effective_action_PDE.pdf"><b>Effective action methods for stochastic PDEs</b></a> (journal club @ SISSA)</li>
 </ul>
 
+<!--
+## Sezione temporaneamente nascosta
 <p>&nbsp;</p>
 <p style="text-align: center; margin-top: 40px;">
   <img src="https://sonarventu.github.io/assets/img/schrodinger-cat.jpg"
@@ -70,3 +72,4 @@ nav_order: 4
   <br>
   <small><em>credits: @_cogitoergo.seum</em></small>
 </p>
+-->

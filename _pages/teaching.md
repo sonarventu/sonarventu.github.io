@@ -12,7 +12,7 @@ nav_order: 4
 <ul>
 <li><a href="https://moodle-sciences-25.sorbonne-universite.fr/course/view.php?id=1471"><b>Mathématiques pour les Sciences 1</b></a> (TD)</li>
 <li><a href="https://moodle-sciences-25.sorbonne-universite.fr/course/view.php?id=449"><b>Physique Statistique - Concepts et fondements</b></a> (TD)</li>
-<li><a href="https://formations-sciences.sorbonne-universite.fr/dl/UE%20licences/UE%20licence%20physique/Fiche_UE_Mathématiques%202%20-%20UL2PY210_16.05.2025.pdf"><b>Mathématiques 2</b></a> (TD)</li>
+<li><a href="https://formations-sciences.sorbonne-universite.fr/dl/UE%20licences/UE%20licence%20physique/Fiche_UE_Mathématiques%202%20-%20UL2PY210_16.05.2025.pdf"><b>Méthodes mathématiques 2</b></a> (TD)</li>
 </ul>
 
 <p>&nbsp;</p>

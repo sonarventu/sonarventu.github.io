@@ -23,7 +23,8 @@ social: true # includes social icons at the bottom of the page
 <p>&nbsp;</p>
 Hi! I'm Davide, and welcome to my personal page.
 
-I'm a theoretical physicist based in Paris, where I am <i>maître de conférences</i> (≃ tenured assistant professor) at Sorbonne Université. Earlier, I completed my undergraduate studies in Sapienza University (Rome, Italy), and earned a PhD in Statistical Physics at SISSA (Trieste, Italy), before joining Sorbonne Université as a postdoc. 
+I'm a theoretical physicist based in Paris, where I am <i>maître de conférences</i> (≃ tenured assistant professor) at Sorbonne Université, in the Laboratoire de Physique Théorique de la Matière Condensée.<br>
+Earlier, I completed my undergraduate studies in Sapienza University (Rome, Italy), and earned a PhD in Statistical Physics at SISSA (Trieste, Italy), before joining Sorbonne Université as a postdoc. 
 
 <p>&nbsp;</p>
 <p>My <strong>research interests</strong> include:</p>

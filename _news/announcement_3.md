@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have signed the <a href="https://www.slow-science.com"><b>Slow Science Manifesto</b></a>, calling for a more thoughtful, sustainable approach to research that values quality over quantity and depth over spead. Please consider signing it too.
+I have signed the <a href="https://www.slow-science.com"><b>Slow Science Manifesto</b></a>, calling for a more thoughtful, sustainable approach to research that values quality over quantity and depth over speed. Please consider signing it too.

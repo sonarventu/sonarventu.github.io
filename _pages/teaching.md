@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Here's a list of the teaching activities I am (or I've been) involved in, along with some lecture notes and teaching material.
+description: Here's a list of the teaching and mentoring activities I am (or I've been) involved in, along with some lecture notes and teaching material.
 nav: true
 nav_order: 4
 ---
@@ -37,7 +37,7 @@ nav_order: 4
 </ul>
 
 <p>&nbsp;</p>
-<p><strong>Lecture notes for courses followed in Sapienza</strong> (mostly in Italian):</p>
+<p><strong>Lecture notes for courses followed in Sapienza</strong> (2014-2019, mostly in Italian):</p>
 <ul>
 <li><a href="https://sonarventu.github.io/assets/Courses/Analisi_Vettoriale.pdf"><b>Analisi vettoriale</b></a></li>
 <li><a href="https://sonarventu.github.io/assets/Courses/Elettromagnetismo.pdf"><b>Elettromagnetismo</b></a></li>
@@ -50,7 +50,7 @@ nav_order: 4
 <li><a href="https://sonarventu.github.io/assets/Courses/Statistical_Field_Theory.pdf"><b>Statistical field theory</b></a></li>
 </ul>
 <p>&nbsp;</p>
-<p><strong>Lecture notes for courses followed in SISSA</strong>:</p>
+<p><strong>Lecture notes for courses followed in SISSA</strong> (2019-2020):</p>
 <ul>
 <li><a href="https://sonarventu.github.io/assets/Courses/Stochastic_dynamics_in_Statistical_Physics.pdf"><b>Stochastic dynamics in statistical physics</b></a></li>
 <li><a href="https://sonarventu.github.io/assets/Courses/Field_Theory_and_Critical_Phenomena.pdf"><b>Field theory and critical phenomena</b></a></li>

@@ -30,6 +30,13 @@ nav_order: 4
 </ul>
 
 <p>&nbsp;</p>
+<p><strong>Supervision of Master students</strong></p>
+<ul>
+<li>Alexandre Bernon (2026, within the international master <i>Physics of Complex Systems</i>)</li>
+<li>Victor Delapalme (2024-2025, within the international master <i>Physics of Complex Systems</i>)</li>
+</ul>
+
+<p>&nbsp;</p>
 <p><strong>Lecture notes for courses followed in Sapienza</strong> (mostly in Italian):</p>
 <ul>
 <li><a href="https://sonarventu.github.io/assets/Courses/Analisi_Vettoriale.pdf"><b>Analisi vettoriale</b></a></li>

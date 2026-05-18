@@ -31,7 +31,7 @@ nav_order: 4
 
 <br>
 <div style="text-align: center; letter-spacing: 0.2em; font-size: 1.1em;">
-  .~.
+  * * * * *
 </div>
 <br>
 
@@ -44,7 +44,7 @@ nav_order: 4
 
 <br>
 <div style="text-align: center; letter-spacing: 0.2em; font-size: 1.1em;">
-  .~.
+  * * * * *
 </div>
 <br>
 

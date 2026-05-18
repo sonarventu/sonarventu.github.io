@@ -29,12 +29,24 @@ nav_order: 4
 <li>Introduction to quantum mechanics, quantum statistics and field theory (TD within the international master <i>Physics of Complex Systems</i>)</li>
 </ul>
 
+<br>
+<div style="text-align: center; letter-spacing: 0.2em; font-size: 1.1em;">
+  .~.
+</div>
+<br>
+
 <p>&nbsp;</p>
 <p><strong>Supervision of Master students</strong></p>
 <ul>
 <li>Alexandre Bernon (2026, within the international master <i>Physics of Complex Systems</i>)</li>
 <li>Victor Delapalme (2024-2025, within the international master <i>Physics of Complex Systems</i>)</li>
 </ul>
+
+<br>
+<div style="text-align: center; letter-spacing: 0.2em; font-size: 1.1em;">
+  .~.
+</div>
+<br>
 
 <p>&nbsp;</p>
 <p><strong>Lecture notes for courses followed in Sapienza</strong> (2014-2019, mostly in Italian)</p>

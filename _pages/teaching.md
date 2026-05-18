@@ -35,7 +35,7 @@ nav_order: 4
 </div>
 <br>
 
-<p>&nbsp;</p>
+
 <p><strong>Supervision of Master students</strong></p>
 <ul>
 <li>Alexandre Bernon (2026, within the international master <i>Physics of Complex Systems</i>)</li>
@@ -48,7 +48,7 @@ nav_order: 4
 </div>
 <br>
 
-<p>&nbsp;</p>
+
 <p><strong>Lecture notes for courses followed in Sapienza</strong> (2014-2019, mostly in Italian)</p>
 <ul>
 <li><a href="https://sonarventu.github.io/assets/Courses/Analisi_Vettoriale.pdf"><b>Analisi vettoriale</b></a></li>

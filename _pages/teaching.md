@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 <p>&nbsp;</p>
-<p><strong>Sorbonne Université 2025/2026</strong></p>
+<p><strong>Teaching at Sorbonne Université 2025/2026</strong></p>
 <ul>
 <li><a href="https://moodle-sciences-25.sorbonne-universite.fr/course/view.php?id=1471"><b>Mathématiques pour les Sciences 1</b></a> (TD, Physique/Chimie Bachelor 1st year)</li>
 <li><a href="https://moodle-sciences-25.sorbonne-universite.fr/course/view.php?id=449"><b>Physique Statistique - Concepts et fondements</b></a> (TD, Physique Master 1st year)</li>
@@ -17,14 +17,14 @@ nav_order: 4
 </ul>
 
 <p>&nbsp;</p>
-<p><strong>Sorbonne Université 2024/2025</strong></p>
+<p><strong>Teaching at Sorbonne Université 2024/2025</strong></p>
 <ul>
 <li>Mathématiques pour les études scientifiques I (TD replacements, Physics Bachelor 1st year)</li>
 <li><a href="https://www.lpthe.jussieu.fr/~leticia/TEACHING/Master2024/Random_matrices_quantum_chaos_and_localization.pdf"><b>Random matrices, quantum chaos, and localization</b></a> (lecture within the course <i>Quantum dynamics</i> in the international master <i>Physics of Complex Systems</i>)</li>
 </ul>
 
 <p>&nbsp;</p>
-<p><strong>SISSA 2022/2023</strong></p>
+<p><strong>Teaching at SISSA 2022/2023</strong></p>
 <ul>
 <li>Introduction to quantum mechanics, quantum statistics and field theory (TD within the international master <i>Physics of Complex Systems</i>)</li>
 </ul>
@@ -57,7 +57,7 @@ nav_order: 4
 <li><a href="https://sonarventu.github.io/assets/Courses/Random_Matrix_Theory.pdf"><b>Random matrix theory</b></a></li>
 </ul>
 <p>&nbsp;</p>
-<p><strong>Presentations on selected topics</strong>:</p>
+<p><strong>Presentations on selected topics</strong> (2017-2020):</p>
 <ul>
 <li><a href="https://sonarventu.github.io/assets/Selected_topics/Sulla_realta_funzione_onda.pdf"><b>Sulla realtà della funzione d'onda</b></a> (3rd year Bachelor dissertation @ Sapienza) </li>
 <li><a href="https://sonarventu.github.io/assets/Selected_topics/KdV-Onde_non_lineari_e_solitoni.pdf"><b>L'equazione di Korteweg - De Vries</b></a> (dissertation for the course "Onde non lineari e solitoni" @ Sapienza)</li>

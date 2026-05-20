@@ -38,8 +38,8 @@ nav_order: 4
 
 <p><strong>Supervision of Master students</strong></p>
 <ul>
-<li>Alexandre Bernon (2026, within the international master <i>Physics of Complex Systems</i>)</li>
-<li>Victor Delapalme (2024-2025, within the international master <i>Physics of Complex Systems</i>)</li>
+<li>Alexandre Bernon (2026, within the international master <i>Physics of Complex Systems</i>, M2)</li>
+<li>Victor Delapalme (2024-2025, within the international master <i>Physics of Complex Systems</i>, M1 and M2)</li>
 </ul>
 
 <br>

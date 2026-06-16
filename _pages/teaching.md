@@ -10,9 +10,9 @@ nav_order: 4
 <p>&nbsp;</p>
 <p><strong>Teaching at Sorbonne Université 2026/2027</strong></p>
 <ul>
-<li><a href="https://moodle-sciences-25.sorbonne-universite.fr/course/view.php?id=449"><b>Physique Statistique - Concepts et fondements</b></a> (TD, Physique Master 1st year)</li>
-<li><b>Advanced Statistical Physics</b></a> (TD, Master iCFP 2nd year)</li>
-<li><a href="https://formations-sciences.sorbonne-universite.fr/dl/UE%20licences/UE%20licence%20physique/Fiche_UE_Mathématiques%202%20-%20UL2PY210_16.05.2025.pdf"><b>Méthodes mathématiques 2</b></a> (TD, Physique Bachelor 2nd year)</li>
+<li><b>Physique Statistique - Concepts et fondements</b></a> (TD, Physique Master 1st year)</li>
+<li><b>Advanced Statistical Physics</b></a> (TD, Physique Master iCFP 2nd year)</li>
+<li><b>Méthodes mathématiques 2</b></a> (TD, Physique Bachelor 2nd year)</li>
 <li><b>Mécanique analytique</b></a> (TD, Physique Bachelor 3rd year)</li>
 <li><b>Physique non linéaire et chaos</b></a> (TD, Physique Bachelor 3rd year)</li>
 </ul>

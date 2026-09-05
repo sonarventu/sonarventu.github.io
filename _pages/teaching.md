@@ -10,8 +10,8 @@ nav_order: 4
 <p>&nbsp;</p>
 <p><strong>Teaching at Sorbonne Université 2026/2027</strong></p>
 <ul>
-<li>Physique Statistique - Concepts et fondements (TD, Physique Master 1st year)</li>
-<li>Advanced Statistical Physics (TD, Physics Master iCFP 2nd year)</li>
+<li><a href="https://moodle-sciences-26.sorbonne-universite.fr/course/view.php?id=109"><b>Physique Statistique - Concepts et fondements</b></a> (TD, Physique Master 1st year)</li>
+<li><a href="https://www.lpthe.jussieu.fr/~leticia/enseignement.html"><b>Advanced Statistical Physics</b></a> (TD, Physics Master iCFP 2nd year)</li>
 <li>Méthodes mathématiques 2 (TD, Physique Bachelor 2nd year)</li>
 <li>Mécanique analytique (TD, Physique Bachelor 3rd year)</li>
 <li>Physique non linéaire et chaos (TD, Physique Bachelor 3rd year)</li>
